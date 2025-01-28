@@ -1,4 +1,3 @@
-# Python_Script_Project
 
 # Modern Note Taking App
 
@@ -12,7 +11,7 @@ A sleek and modern note-taking application built with Python and Tkinter, featur
 - 💾 Save and load notes
 - 🎨 Custom styling with Dosis font
 - ↔️ Split-pane interface for active and pinned notes
-- 🎯 Responsive design with rounded corners
+- 🎯 Responsive design with Sharp corners
 
 ## Technologies Used
 
@@ -27,10 +26,12 @@ A sleek and modern note-taking application built with Python and Tkinter, featur
 
 ## Installation & Usage
 
-1. Clone the repository: git clone https://github.com/Supershivam5/Python_Script_Project.git
- cd Python_Script_Project ( Use git bash )
+1. Clone the repository:
+- git clone https://github.com/Supershivam5/Python_Script_Project.git
+- cd Python_Script_Project ( Use git bash )
 
-2. Run the application: python app.py
+3. Run the application:
+- python app.py
 
 ## User Interface Screenshots
 
