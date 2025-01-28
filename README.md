@@ -35,7 +35,14 @@ A sleek and modern note-taking application built with Python and Tkinter, featur
 
 ## User Interface Screenshots
 
-![Screenshot 0](Screenshots/screenshot_0.png) ![Screenshot 1](Screenshots/screenshot_1.png) ![Screenshot 2](Screenshots/screenshot_2.png) ![Screenshot 3](Screenshots/screenshot_3.png) ![Screenshot 4](Screenshots/screenshot_4.png) ![Screenshot 5](Screenshots/screenshot_5.png) ![Screenshot 6](Screenshots/screenshot_6.png) ![Screenshot 7](Screenshots/screenshot_7.png)
+![Screenshot 0](Screenshots/screenshot_0.png)
+![Screenshot 1](Screenshots/screenshot_1.png)
+![Screenshot 2](Screenshots/screenshot_2.png)
+![Screenshot 3](Screenshots/screenshot_3.png)
+![Screenshot 4](Screenshots/screenshot_4.png)
+![Screenshot 5](Screenshots/screenshot_5.png)
+![Screenshot 6](Screenshots/screenshot_6.png)
+![Screenshot 7](Screenshots/screenshot_7.png)
 
 ## User Interface Components
 
